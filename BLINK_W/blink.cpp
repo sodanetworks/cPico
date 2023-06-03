@@ -1,13 +1,11 @@
-// source
+// sources
 // https://www.electronicshub.org/program-raspberry-pi-pico-using-c/
 // https://www.youtube.com/watch?v=B5rQSoOmR5w
 // https://www.electromaker.io/blog/article/getting-started-with-the-raspberry-pi-pico-w-cc-sdk
 // https://www.electromaker.io/blog/article/getting-started-with-the-raspberry-pi-pico-w-cc-sdk
 // https://github.com/LearnEmbeddedSystems/pico-w-webserver-template
-// video that explains how to create a server
+// video that explains how to create a web server
 // https://www.youtube.com/watch?v=C_O0MXGBHsw 
-
-// set board is pico w
 
 #include "pico/stdlib.h"
 #include "pico/cyw43_arch.h"
